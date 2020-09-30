@@ -12,7 +12,6 @@ stages:
     - subprojects/glib/
     - subprojects/graphene/
     - subprojects/libepoxy/
-    - subprojects/pango/
 
 # Common variables
 variables:
@@ -63,7 +62,6 @@ style-check-diff:
       - subprojects/glib/
       - subprojects/graphene/
       - subprojects/libepoxy/
-      - subprojects/pango/
 
 fedora-x86_64:
   extends: .build-fedora-default
