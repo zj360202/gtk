@@ -124,7 +124,8 @@ extra_demo_sources = files(['main.c',
                             'pixbufpaintable.c',
                             'script-names.c',
                             'unicode-names.c',
-                            'suggestionentry.c'])
+                            'suggestionentry.c',
+                            'simplelabel.c'])
 
 if harfbuzz_dep.found() and pangoft_dep.found()
   demos += files(['font_features.c'])
