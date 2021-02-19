@@ -3,7 +3,7 @@ Title: Widget Gallery
 ## Display widgets
 
 [![label](label.png)](class.Label.html)
-[![spinner](spinner.png)](class.Spinner.htmhtmll)
+[![spinner](spinner.png)](class.Spinner.html)
 [![statusbar](statusbar.png)](class.Statusbar.html)
 [![levelbar](levelbar.png)](class.LevelBar.html)
 [![progressbar](progressbar.png)](class.ProgressBar.html)
