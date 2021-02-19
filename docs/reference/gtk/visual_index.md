@@ -8,7 +8,7 @@ Title: Widget Gallery
 [![levelbar](levelbar.png)](class.LevelBar.html)
 [![progressbar](progressbar.png)](class.ProgressBar.html)
 [![infobar](info-bar.png)](class.InfoBar.html)
-[![scrollbar](scrollbar.png)](class.ScrollBar.html)
+[![scrollbar](scrollbar.png)](class.Scrollbar.html)
 [![image](image.png)](class.Image.html)
 [![picture](picture.png)](class.Picture.html)
 [![separator](separator.png)](class.Separator.html)
